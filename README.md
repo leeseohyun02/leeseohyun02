@@ -2,7 +2,7 @@
 
 ---
 ### stats
-![seohyun GitHub stats](https://github-readme-stats.vercel.app/api?username=seohyun&theme=buefy_icons=true)
+![seohyun GitHub stats](https://github-readme-stats.vercel.app/api?username=leeseohyun02&theme=material-palenight_icons=true)
 
 ---
 ## Skills
@@ -19,3 +19,8 @@
 ### Contacts
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:leeseohyun61@naver.com)](mailto:leeseohyun61@naver.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seobae15@gmail.com)](mailto:seobae15@gmail.com)
+
+---
+### Blog
+#0ABF53
+
