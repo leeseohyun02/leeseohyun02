@@ -23,5 +23,6 @@
 ---
 ### Blog
 
-[![Naver_Blog Badge](https://img.shields.io/badge/Naver_Blog-0ABF53?style=flat-square&logo=Naver_Blog&logoColor=white)](mailto:https://blog.naver.com/leeseohyun61)
+<a href="https://blog.naver.com/leeseohyun61"><img src="https://img.shields.io/badge/Naver Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/leeseohyun61"/></a>
+
 
