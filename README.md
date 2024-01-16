@@ -1,6 +1,8 @@
 <div align ="center">
 
 # 🐈seohyun profile
+<img src ="https://github.com/leeseohyun02/leeseohyun02/assets/78461967/03ec1c05-74b6-45ec-9b75-c2c8eae5628c" width =300; heigth ="400"/>
+
 
 ---
 ## stats
