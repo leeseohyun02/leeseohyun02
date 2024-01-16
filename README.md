@@ -1,16 +1,21 @@
-### Hi there 👋
+# 🐈seohyun profile
 
-<!--
-**leeseohyun02/leeseohyun02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+### stats
+![seohyun GitHub stats](https://github-readme-stats.vercel.app/api?username=seohyun&theme=buefy_icons=true)
 
-Here are some ideas to get you started:
+---
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages & Engins
+![C#](https://img.shields.io/badge/C%23-512BD4.svg?&style=for-the-badge&logo=C%23&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000.svg?&style=for-the-badge&logo=Unity&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+![Visual_Studio](https://img.shields.io/badge/Visual_Studio-5C2D91.svg?&style=for-the-badge&logo=Visual_studio&logoColor=white)
+
+---
+### Contacts
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:leeseohyun61@naver.com)](mailto:leeseohyun61@naver.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seobae15@gmail.com)](mailto:seobae15@gmail.com)
