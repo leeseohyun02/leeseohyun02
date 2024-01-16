@@ -26,7 +26,7 @@
 
 ## 🐾Blog
 
-<a href="https://blog.naver.com/leeseohyun61"><img src="https://img.shields.io/badge/Naver Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/leeseohyun61"/></a>
+<a href="https://blog.naver.com/leeseohyun61"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/leeseohyun61"/></a>
 
 </div>
 
