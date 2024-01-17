@@ -1,11 +1,13 @@
 <div align ="center">
 
 # 🐈seohyun profile
-<img src ="https://github.com/leeseohyun02/leeseohyun02/assets/78461967/a8bacdf7-cd4c-41d9-842f-cb910499bcf8" width =300; heigth ="400"/>
+<img src ="https://github.com/leeseohyun02/leeseohyun02/assets/78461967/a8bacdf7-cd4c-41d9-842f-cb910499bcf8" width =300; heigth ="400"/>  
+
 
 ---
-## stats
-![seohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeseohyun02&show_icons=true&theme=material-palenight)
+
+![seohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeseohyun02&show_icons=true&theme=material-palenight) [![seohyun](http://mazassumnida.wtf/api/v2/generate_badge?boj=seobae)](https://solved.ac/seobae/)
+
 
 ---
 ## 🐾Skills
