@@ -6,7 +6,7 @@
 
 ---
 
-![seohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeseohyun02&show_icons=true&theme=material-palenight) [![seohyun](http://mazassumnida.wtf/api/v2/generate_badge?boj=seobae)](https://solved.ac/seobae/)
+![seohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeseohyun02&show_icons=true&theme=material-palenight) 
 
 
 ---
